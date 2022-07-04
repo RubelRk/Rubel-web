@@ -25,7 +25,7 @@ section{
 section div img{
     width: 80%;
 }
-.hire-me{
+.button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
@@ -37,4 +37,10 @@ section div img{
 .header-all div p{
     margin-bottom: 50px;
     margin-top: 40px;
+}
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
